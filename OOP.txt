@@ -31,6 +31,6 @@ As: nếu bạn muốn chuyển đổi các đối tượng từ loại này san
    ngắn gọn
 4. Tính đa hình (Polymorphism)
    Là hiện tượng các đối tượng thuộc các lớp khác nhau có thể hiểu cùng một thông điệp theo cách khác nhau
-Static
+Static trong C#
    
    
