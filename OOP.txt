@@ -1,4 +1,4 @@
-public: có thể truy cập từ bất kỳ đâu.
+﻿public: có thể truy cập từ bất kỳ đâu.
 - protected: được phép truy cập từ class chứa thuộc tính đó và class dẫn xuất (class con) 
 kế thừa từ lớp cơ sở (class cha).
 - private: chỉ được truy cập từ class chứa thuộc tính đó.
@@ -31,5 +31,6 @@ As: nếu bạn muốn chuyển đổi các đối tượng từ loại này san
    ngắn gọn
 4. Tính đa hình (Polymorphism)
    Là hiện tượng các đối tượng thuộc các lớp khác nhau có thể hiểu cùng một thông điệp theo cách khác nhau
+Static
    
    
